@@ -16,6 +16,7 @@ const Home = () => {
 				<Card className="container d-flex"/>
 				<Card className="container d-flex"/>
 				<Card className="container d-flex"/>
+				<Card className="container d-flex"/>
 			</div>
 		</div>
 	);
